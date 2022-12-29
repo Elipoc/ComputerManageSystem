@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/机房/Identity.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/机房/computerRoom.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/机房/globalFIle.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/机房/manager.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/机房/manager.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/机房/orderFIle.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/机房/orderFile.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/机房/student.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/机房/student.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/机房/teacher.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/机房/teacher.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/机房/机房预约系统.cpp" charset="GBK" />
+  </component>
+</project>
